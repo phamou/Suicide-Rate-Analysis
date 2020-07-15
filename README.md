@@ -1,2 +1,2 @@
-# Suicide-Rate-Analysis
+# Suicide-RateS-Analysis
 This data exploratory analysis will be looking at the different factors behind the increasing number of suicides in the 21st century
